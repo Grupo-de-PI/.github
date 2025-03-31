@@ -1,9 +1,9 @@
 ### Bem vindo a AirSAfe 👋
 
-## Sobre nós 
+### Sobre nós 
 A AirSafe é uma empresa focada no monitoramento e auxílio na qualidade do ar.
 
-## Integrantes
+### Integrantes
 Claudiana
 Davi
 Dennis
@@ -11,13 +11,13 @@ Gustavo
 Matheus
 Rafael
 
-## Objetivos
+### Objetivos
 [...]
 
-## Ferramentas utilizadas
+### Ferramentas utilizadas
 [...]
 
-## Linguagens utilizadas
+### Linguagens utilizadas
 - HTML
 - CSS
 - Java Script
