@@ -4,12 +4,12 @@
 A AirSafe é uma empresa focada no monitoramento e auxílio na qualidade do ar.
 
 ### Integrantes
-Claudiana
-Davi
-Dennis
-Gustavo
-Matheus
-Rafael
+Claudiana/n
+Davi/n
+Dennis/n
+Gustavo/n
+Matheus/n
+Rafael/n
 
 ### Objetivos
 [...]
