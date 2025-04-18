@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Esta empresa foi criada por um grupo de estudantes da São Paulo Tech School - SPTech - da turma 1ADSA com o intuito de servir como base para aplicação do conteúdo das disciplinas cursadas.
+
+O foco da AirSafe está no monitoramento de gás amônia (NH₃) em sistemas refrigerantes de frigoríficos bovinos através da implantação de sensor de gás do modelo MQ-2 conectado a um microcontrolador Arduino Uno R3 para detectar vazamentos precocemente e prevenir acidentes.
+
+Para saber mais, acesse nosso site. 
+
+Até logo!
+
 <!--
 
 **Here are some ideas to get you started:**
