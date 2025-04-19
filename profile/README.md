@@ -32,17 +32,6 @@ Essa tecnologia busca **prevenir acidentes**, reduzir prejuízos com perdas de p
 ---
 
 
-## 🤝 Colabore conosco
-
-Estamos abertos a parcerias, colaborações acadêmicas e sugestões para evolução contínua do projeto.
-
-- Sugestões de melhoria
-- Casos de uso reais
-- Testes em campo
-- Documentação e suporte
-
----
-
 ## 📌 Nossa missão
 
 > *“Proteger vidas e garantir a continuidade de operações industriais por meio da tecnologia e da prevenção inteligente.”*
