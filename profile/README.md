@@ -31,12 +31,6 @@ Essa tecnologia busca **prevenir acidentes**, reduzir prejuízos com perdas de p
 
 ---
 
-## 🌐 Acesse nosso site
-
-🔗 [Link para o site oficial da AirSafe]  
-*(Adicione aqui o link quando estiver disponível)*
-
----
 
 ## 🤝 Colabore conosco
 
