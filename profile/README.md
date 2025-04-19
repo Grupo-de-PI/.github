@@ -1,20 +1,60 @@
-## Hi there 👋
+# 🧊 AirSafe | Monitoramento de Gás Amônia com IoT
 
-A AirSafe foi criada em 2025 por um grupo de estudantes da São Paulo Tech School - SPTech - da turma 1ADSA com o intuito de servir como base para aplicação do conteúdo das disciplinas cursadas.
+Bem-vindo à **AirSafe**, uma iniciativa desenvolvida por estudantes da **São Paulo Tech School (SPTech)** da turma **1ADSA**, com o propósito de aplicar tecnologia de ponta para promover **segurança, prevenção e eficiência** na indústria frigorífica.
 
-O foco da AirSafe está no monitoramento de gás amônia (NH₃) em sistemas refrigerantes de frigoríficos bovinos através da implantação de sensor de gás do modelo MQ-2 conectado a um microcontrolador Arduino Uno R3 para detectar vazamentos precocemente e prevenir acidentes.
+Nosso projeto nasceu em 2025 como base para a aplicação prática dos conhecimentos adquiridos nas disciplinas técnicas, com um propósito claro: **detecção precoce de vazamentos de gás amônia (NH₃)**.
 
-Para saber mais, acesse nosso site. 
+---
 
-Até logo!
+## 🚀 O que fazemos
 
-<!--
+Desenvolvemos uma solução de **monitoramento contínuo de gás amônia**, utilizando:
 
-**Here are some ideas to get you started:**
+- 🔍 **Sensor MQ-2** para detecção de gases inflamáveis, incluindo NH₃;
+- 💡 **Arduino Uno R3** como microcontrolador principal;
+- 📡 **Integração com banco de dados e plataforma web**;
+- 📈 **Dashboard com gráficos analíticos em tempo real**;
+- 🔔 **Alertas automáticos** ao detectar concentrações perigosas.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Essa tecnologia busca **prevenir acidentes**, reduzir prejuízos com perdas de produto e **proteger a saúde dos trabalhadores** em ambientes industriais.
+
+---
+
+## 🧠 Tecnologias envolvidas
+
+- Arduino C/C++
+- Sensor MQ-2
+- MySQL
+- HTML, CSS e JavaScript
+- ChartJS
+- GitHub / Versionamento colaborativo
+
+---
+
+## 🌐 Acesse nosso site
+
+🔗 [Link para o site oficial da AirSafe]  
+*(Adicione aqui o link quando estiver disponível)*
+
+---
+
+## 🤝 Colabore conosco
+
+Estamos abertos a parcerias, colaborações acadêmicas e sugestões para evolução contínua do projeto.
+
+- Sugestões de melhoria
+- Casos de uso reais
+- Testes em campo
+- Documentação e suporte
+
+---
+
+## 📌 Nossa missão
+
+> *“Proteger vidas e garantir a continuidade de operações industriais por meio da tecnologia e da prevenção inteligente.”*
+
+---
+
+Obrigado por visitar nossa organização.  
+Vamos juntos tornar o ar mais seguro! 💙  
+**#AirSafe #SegurançaIndustrial #IoT #SoluçõesAmbientais**
